@@ -33,5 +33,5 @@ $y = 0;
 for($binario[$posicao]; $binario[$posicao] < 2 || $y < 9; $posicao++){
     echo $binario[$posicao];
     $y += 1;
-    echo $y;
+    echo $y; f
 }
